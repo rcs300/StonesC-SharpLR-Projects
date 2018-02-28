@@ -5,5 +5,6 @@ Projects for Practicing and Learning
 
 
   I also added (for a future addition) the tabcontrol for the Wear Window where items and armor can be selected from a database but I dont know how all that stuff works yet and i dont know where im going to get a database of all the items, I did try some parser for the AO-DB but i couldnt get it working.
+  
   -------If you have suggestions Feel free to offer!
   
